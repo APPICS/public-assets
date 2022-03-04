@@ -1,2 +1,2 @@
 # public-assets
-Public Assets for Github
+Public Assets for Appics
